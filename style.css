@@ -26,3 +26,9 @@ h3 {
 .third-paragraph {
     font-family: cursive;
 }
+
+h4 {
+    color: orange;
+    text-decoration: underline;
+    font-weight: 200;
+}
