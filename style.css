@@ -10,7 +10,16 @@ h2 {
     text-decoration: underline;
 }
 
-first.paragraph {
+.first-paragraph {
     font-family: cursive;
+}
+
+.second-paragraph {
+    font-family: serif;
+}
+
+h3 {
+    color: brown;
+    text-decoration: underline;
 }
 
