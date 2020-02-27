@@ -15,7 +15,7 @@ h2 {
 }
 
 .second-paragraph {
-    font-family: serif;
+    font-family: cursive;
 }
 
 h3 {
@@ -23,3 +23,6 @@ h3 {
     text-decoration: underline;
 }
 
+.third-paragraph {
+    font-family: cursive;
+}
